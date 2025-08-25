@@ -92,10 +92,11 @@ Terminal: npx webpack-bundle-analyzer dist/stats.json
 ⚡ Шпаргалка команд
 Comands:
 
-npm install	                                     # Встановлення залежностей
-npm start	                                       # Запуск DevServer у режимі розробки
-npm run build	                                   # Збірка проєкту для продакшн
-npm run lint	                                   # Перевірка коду ESLint
-npm run lint:fix                                 # Автоматичне виправлення помилок ESLint
-npx webpack-bundle-analyzer dist/stats.json	     # Запуск аналізатора збірки
+- npm install	                                     # Встановлення залежностей
+- npm start	                                       # Запуск DevServer у режимі розробки
+- npm run build	                                   # Збірка проєкту для продакшн
+- npm run lint	                                   # Перевірка коду ESLint
+- npm run lint:fix                                 # Автоматичне виправлення помилок ESLint
+- npx webpack-bundle-analyzer dist/stats.json	     # Запуск аналізатора збірки
+
 
